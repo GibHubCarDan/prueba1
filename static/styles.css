@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #0004ff;
+      transition: all 0.3s ease; 
+}
+
+h1:hover {
+    color: #00aeff;
+      transform: translateY(-5px) scale(1.05); ;
+}
+h2 {
+    color: #ff0000;
+     transition: all 0.3s ease; 
+}
+
+h2:hover {
+    color: #ffe600;
+      transform: translateY(-5px) scale(1.05); ;
+}
